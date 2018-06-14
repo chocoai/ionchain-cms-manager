@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="jfinal_cms:war exploded">
+  <artifact type="exploded-war" name="ionchain-cms-manager:war exploded">
     <output-path>$PROJECT_DIR$/target/jfinal_cms</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
