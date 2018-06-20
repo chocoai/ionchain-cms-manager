@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/src/main/webapp/static/component/umeditor/jsp/ueditor-mini.jar!/" />
       <root url="jar://$PROJECT_DIR$/src/main/webapp/static/component/umeditor/jsp/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar:///Library/apache-tomcat-8.5.31/lib/servlet-api.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

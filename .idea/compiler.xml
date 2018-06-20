@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jfinal_cms" />
+        <module name="ionchain-cms-manager" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="jfinal_cms" target="1.7" />
+    <bytecodeTargetLevel target="8">
+      <module name="ionchain-cms-manager" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
