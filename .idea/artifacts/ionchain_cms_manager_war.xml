@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ionchain-cms-manager:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="jfinal_cms.war">
-      <element id="artifact" artifact-name="jfinal_cms:war exploded" />
+    <root id="archive" name="ionchain-cms-manager.war">
+      <element id="artifact" artifact-name="ionchain-cms-manager:war exploded" />
     </root>
   </artifact>
 </component>
